@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rica Kesuma
+### Hi there, I'm Rica Kesuma!👋
 
 <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" width="100">
 
