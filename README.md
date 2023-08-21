@@ -12,7 +12,8 @@
 - <a href="https://github.com/ricakesuma/How-has-COVID-19-Impacted-the-Development-of-AirBnb">How has COVID-19 Impacted the Development of AirBnb?
 - <a href="https://github.com/ricakesuma/Retail-Online-Shop">The Total Sales of Retail Online Shop
 - <a href="https://github.com/ricakesuma/behavior_loan_customers">Behaviour Loan Customers
-- <a href="https://github.com/ricakesuma/Investigate-Hotel-Business)">Investigate Hotel Business
+- <a href="https://github.com/ricakesuma/Investigate-Hotel-Business">Investigate Hotel Business
+- <a href="https://github.com/ricakesuma/Measuring-Online-Retail-Sales-Performance">Measuring Online Retail Sales Performance
 
 **Machine Learning**
 - <a href="https://github.com/ricakesuma/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning">Predicting Customer Clicked Ads Classification
