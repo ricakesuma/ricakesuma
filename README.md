@@ -17,6 +17,7 @@
 
 **Machine Learning**
 - <a href="https://github.com/ricakesuma/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning">Predicting Customer Clicked Ads Classification
+- <a href="https://github.com/ricakesuma/Improving-Employee-Retention-by-Predicting-Employee-Attrition-">Improving Employee Retention by Predicting Employee Attrition
 - <a href="https://github.com/iqbalmudzakky/final_project">Payment Default Prediction (Group)
   
 <!--
