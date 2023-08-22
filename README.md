@@ -8,6 +8,9 @@
 
 *Here are some my Portfolio:*
 
+**Microsoft Excel**
+- <a href="https://github.com/ricakesuma/Top-10-Most-Popular-Movies">Top 10 Most Popular Movies
+
 **Python**
 - <a href="https://github.com/ricakesuma/How-has-COVID-19-Impacted-the-Development-of-AirBnb">How has COVID-19 Impacted the Development of AirBnb?
 - <a href="https://github.com/ricakesuma/Retail-Online-Shop">The Total Sales of Retail Online Shop
