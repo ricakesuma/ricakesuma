@@ -11,6 +11,12 @@
 **Microsoft Excel**
 - <a href="https://github.com/ricakesuma/Top-10-Most-Popular-Movies">Top 10 Most Popular Movies
 
+**Microsoft PowerBI**
+- <a href="https://github.com/ricakesuma/Monitoring_COVID-19_2020_Indonesia">Monitoring COVID-19 2020 in Indonesia
+
+**Tableau**
+- <a href="https://public.tableau.com/app/profile/rica1899/viz/RicaKesuma_RetailOnlineShopCapstoneProject/TotalSalesofRetailOnlineShop">The Total Sales of Retail Online Shop
+  
 **Python**
 - <a href="https://github.com/ricakesuma/How-has-COVID-19-Impacted-the-Development-of-AirBnb">How has COVID-19 Impacted the Development of AirBnb?
 - <a href="https://github.com/ricakesuma/Retail-Online-Shop">The Total Sales of Retail Online Shop
