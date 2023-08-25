@@ -16,7 +16,10 @@
 
 **Tableau**
 - <a href="https://public.tableau.com/app/profile/rica1899/viz/RicaKesuma_RetailOnlineShopCapstoneProject/TotalSalesofRetailOnlineShop">The Total Sales of Retail Online Shop
-  
+
+**SQL**
+-<a href="https://github.com/ricakesuma/Analyzing-eCommerce-Business-Performance/tree/main">Analyzing eCommerce Business Performance
+
 **Python**
 - <a href="https://github.com/ricakesuma/How-has-COVID-19-Impacted-the-Development-of-AirBnb">How has COVID-19 Impacted the Development of AirBnb?
 - <a href="https://github.com/ricakesuma/Retail-Online-Shop">The Total Sales of Retail Online Shop
