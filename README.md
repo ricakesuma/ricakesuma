@@ -34,9 +34,8 @@
 - <a href="https://github.com/iqbalmudzakky/final_project">Payment Default Prediction
 
 ## 🔍You Can Visit Me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoWidth=30)](https://www.linkedin.com/in/ricakesuma/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red&logoWidth=30)](mailto:rica.kesuma6@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoWidth=30&fontSize=large)](https://www.linkedin.com/in/ricakesuma/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red&logoWidth=30&logoColor=white&fontSize=large)](mailto:rica.kesuma6@gmail.com)
 
 <!--
 **ricakesuma/ricakesuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
