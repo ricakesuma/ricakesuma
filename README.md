@@ -1,4 +1,4 @@
-### Hi there, I'm Rica Kesuma!👋
+## ⚡Hi there, I'm Rica Kesuma!👋
 <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" width="100">
 
 💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
@@ -32,7 +32,11 @@
 - <a href="https://github.com/ricakesuma/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning">Predicting Customer Clicked Ads Classification
 - <a href="https://github.com/ricakesuma/Improving-Employee-Retention-by-Predicting-Employee-Attrition-">Improving Employee Retention by Predicting Employee Attrition
 - <a href="https://github.com/iqbalmudzakky/final_project">Payment Default Prediction
-  
+
+## 🔍You Can Visit Me at:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ricakesuma/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red)](mailto:rica.kesuma6@gmail.com)
+
 <!--
 **ricakesuma/ricakesuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
