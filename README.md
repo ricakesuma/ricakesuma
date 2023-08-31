@@ -1,5 +1,4 @@
 ### Hi there, I'm Rica Kesuma!👋
-
 <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" width="100">
 
 💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
@@ -26,12 +25,13 @@
 - <a href="https://github.com/ricakesuma/behavior_loan_customers">Behaviour Loan Customers
 - <a href="https://github.com/ricakesuma/Investigate-Hotel-Business">Investigate Hotel Business
 - <a href="https://github.com/ricakesuma/Measuring-Online-Retail-Sales-Performance">Measuring Online Retail Sales Performance
+- <a href="https://github.com/ricakesuma/Analyze-the-Games-Sales/tree/main">Analyze the Games Sales
 
 **Machine Learning**
 - <a href="https://github.com/ricakesuma/Predict-Customer-Personality-to-Boost-Marketing-Campaign/tree/main">Predict Customer Personality to Boost Marketing Campaign
 - <a href="https://github.com/ricakesuma/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning">Predicting Customer Clicked Ads Classification
 - <a href="https://github.com/ricakesuma/Improving-Employee-Retention-by-Predicting-Employee-Attrition-">Improving Employee Retention by Predicting Employee Attrition
-- <a href="https://github.com/iqbalmudzakky/final_project">Payment Default Prediction (Group)
+- <a href="https://github.com/iqbalmudzakky/final_project">Payment Default Prediction
   
 <!--
 **ricakesuma/ricakesuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
