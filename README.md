@@ -32,6 +32,7 @@
 - <a href="https://github.com/ricakesuma/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning">Predicting Customer Clicked Ads Classification
 - <a href="https://github.com/ricakesuma/Improving-Employee-Retention-by-Predicting-Employee-Attrition-">Improving Employee Retention by Predicting Employee Attrition
 - <a href="https://github.com/iqbalmudzakky/final_project">Payment Default Prediction
+- <a href="https://github.com/ricakesuma/Bank-Customers-Churn">Bank Customers Churn
 
 ## 🔍You Can Visit Me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoWidth=30&fontSize=large)](https://www.linkedin.com/in/ricakesuma/)
