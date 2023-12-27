@@ -26,6 +26,7 @@
 - <a href="https://github.com/ricakesuma/Investigate-Hotel-Business">Investigate Hotel Business
 - <a href="https://github.com/ricakesuma/Measuring-Online-Retail-Sales-Performance">Measuring Online Retail Sales Performance
 - <a href="https://github.com/ricakesuma/Analyze-the-Games-Sales/tree/main">Analyze the Games Sales
+- <a href="https://github.com/ricakesuma/Optimizing-Inventory-Marketing-Strategy-Kalbe-Nutritionals/tree/main">Optimizing Inventory & Marketing Strategy: The Kalbe Data Science Challenge
 
 **Machine Learning**
 - <a href="https://github.com/ricakesuma/Predict-Customer-Personality-to-Boost-Marketing-Campaign/tree/main">Predict Customer Personality to Boost Marketing Campaign
