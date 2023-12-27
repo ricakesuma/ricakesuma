@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Python with Machine Learning and SQL Programming Language, and learning some data visualization using Tableau, PowerBI, and also with Python
 
-*Here are some my Portfolio:*
+# ⭐️ Portfolio(s):
 
 **Microsoft Excel**
 - <a href="https://github.com/ricakesuma/Top-10-Most-Popular-Movies">Top 10 Most Popular Movies
