@@ -1,4 +1,4 @@
-## ⚡Hi there, I'm Rica Kesuma!👋
+## ⚡Hello, I'm Rica Kesuma. Welcome to my Github World!👋
 
 <img class="center-img" src="https://github.com/ricakesuma/ricakesuma/blob/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width= "400">
 
