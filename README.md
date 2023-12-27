@@ -15,9 +15,11 @@
 
 **Tableau**
 - <a href="https://public.tableau.com/app/profile/rica1899/viz/RicaKesuma_RetailOnlineShopCapstoneProject/TotalSalesofRetailOnlineShop">The Total Sales of Retail Online Shop
+- <a href="https://github.com/ricakesuma/Optimizing-Inventory-Marketing-Strategy-Kalbe-Nutritionals/tree/main">Optimizing Inventory & Marketing Strategy: The Kalbe Data Science Challenge
 
 **SQL**
 - <a href="https://github.com/ricakesuma/Analyzing-eCommerce-Business-Performance/tree/main">Analyzing eCommerce Business Performance
+- <a href="https://github.com/ricakesuma/Optimizing-Inventory-Marketing-Strategy-Kalbe-Nutritionals/tree/main">Optimizing Inventory & Marketing Strategy: The Kalbe Data Science Challenge
 
 **Python**
 - <a href="https://github.com/ricakesuma/How-has-COVID-19-Impacted-the-Development-of-AirBnb">How has COVID-19 Impacted the Development of AirBnb?
