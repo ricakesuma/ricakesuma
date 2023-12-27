@@ -1,5 +1,9 @@
 ## ⚡Hi there, I'm Rica Kesuma!👋
-<img src="https://drive.google.com/uc?export=view&id=1wKhJ8sHEk72uWHWsGp4JvO3BWZp0yX0_" width="500">
+
+<img class="center-img" src="https://github.com/ricakesuma/ricakesuma/blob/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width= "400">
+
+</body>
+</html>
 
 💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
 
