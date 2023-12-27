@@ -1,5 +1,5 @@
 ## ⚡Hi there, I'm Rica Kesuma!👋
-<img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" width="100">
+<img src="![Cute Cat](https://drive.google.com/uc?export=view&id=1wKhJ8sHEk72uWHWsGp4JvO3BWZp0yX0_)" width="500">
 
 💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
 
