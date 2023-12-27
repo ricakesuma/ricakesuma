@@ -5,9 +5,8 @@
 </body>
 </html>
 
-💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
-
-🌱 I’m currently learning Python with Machine Learning and SQL Programming Language, and learning some data visualization using Tableau, PowerBI, and also with Python
+- 💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
+- 🌱 I’m currently learning Python with Machine Learning and SQL Programming Language, and learning some data visualization using Tableau, PowerBI, and also with Python
 
 # ⭐️ Portfolio(s):
 
