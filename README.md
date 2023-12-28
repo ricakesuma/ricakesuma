@@ -8,7 +8,7 @@
 - 💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
 - 🌱 I’m currently learning Python with Machine Learning and SQL Programming Language, and learning some data visualization using Tableau, PowerBI, and also with Python
 
-# ⭐️ Portfolio(s):
+# 📄 Portfolio(s):
 
 **Microsoft Excel**
 - <a href="https://github.com/ricakesuma/Top-10-Most-Popular-Movies">Top 10 Most Popular Movies
