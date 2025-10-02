@@ -39,9 +39,8 @@
 - <a href="https://github.com/iqbalmudzakky/final_project">Payment Default Prediction
 - <a href="https://github.com/ricakesuma/Bank-Customers-Churn">Bank Customers Churn
 
-## 🔍You Can Visit Me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoWidth=30&fontSize=large)](https://www.linkedin.com/in/ricakesuma/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red&logoWidth=30&logoColor=white&fontSize=large)](mailto:rica.kesuma6@gmail.com)
+## 🔍You Can Visit Me on:
+<a href="https://www.linkedin.com/in/ricakesuma/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn"/> </a> <a href="mailto:rica.kesuma6@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" alt="Gmail"/> </a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=THANK+YOU,+XOXO!+%F0%9F%92%8B" alt="Typing SVG"/>
