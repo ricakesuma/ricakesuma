@@ -2,15 +2,10 @@
 
 <img src="https://github.com/ricakesuma/Introduction/raw/main/Rica%20Kesuma_Github.gif" alt="Demo GIF" style="max-width:900px; width:100%;"/>
 
-<p align="center">
-  <img src="https://github.com/ricakesuma/ricakesuma/raw/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width="500"/>
-</p>
-
 </body>
 </html>
 
-- 💬 I have a strong interest in data analysis and seeking opportunities to apply my skills and knowledge in this field.
-- 🌱 I’m currently learning Python with Machine Learning and SQL Programming Language, and learning some data visualization using Tableau, PowerBI, and also with Python
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=009688&center=true&vCenter=true&width=1000&height=180&lines=Hi,+I'm+Rica+Kesuma;Passionate+about+Data+Analysis+and+Insights;Skilled+in+Python,+SQL,+Excel,+and+Machine+Learning;Proficient+in+Data+Visualization+with+Tableau,+PowerBI,+and+Python))](https://git.io/typing-svg)
 
 # 📄 Portfolio(s):
 
@@ -48,6 +43,11 @@
 ## 🔍You Can Visit Me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoWidth=30&fontSize=large)](https://www.linkedin.com/in/ricakesuma/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red&logoWidth=30&logoColor=white&fontSize=large)](mailto:rica.kesuma6@gmail.com)
+
+# THANK YOU, XOXO!
+<p align="center">
+  <img src="https://github.com/ricakesuma/ricakesuma/raw/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width="500"/>
+</p>
 
 <!--
 **ricakesuma/ricakesuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
