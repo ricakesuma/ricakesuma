@@ -3,7 +3,7 @@
 <img src="https://github.com/ricakesuma/Introduction/raw/main/Rica%20Kesuma_Github.gif" alt="Demo GIF" style="max-width:900px; width:100%;"/>
 
 <p align="center">
-  <img src="https://github.com/ricakesuma/ricakesuma/raw/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width="200"/>
+  <img src="https://github.com/ricakesuma/ricakesuma/raw/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width="500"/>
 </p>
 
 </body>
