@@ -12,6 +12,7 @@
 
 **Microsoft Excel**
 - <a href="https://github.com/ricakesuma/Top-10-Most-Popular-Movies">Top 10 Most Popular Movies
+- <a href="https://github.com/ricakesuma/Profit-and-Efficiency-Reports">Monthly Performance: Sales, Profit, and Cost Insights
 
 **Microsoft PowerBI**
 - <a href="https://github.com/ricakesuma/Monitoring_COVID-19_2020_Indonesia">Monitoring COVID-19 2020 in Indonesia
