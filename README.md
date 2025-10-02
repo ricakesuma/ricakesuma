@@ -3,7 +3,8 @@
 </body>
 </html>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=009688&center=true&vCenter=true&width=1000&height=180&lines=Hi,+I'm+Rica+Kesuma;Passionate+about+Data+Analysis+and+Insights;Skilled+in+Python,+SQL,+Excel,+and+Machine+Learning;Proficient+in+Data+Visualization+with+Tableau,+PowerBI,+and+Python))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=009688&center=true&vCenter=true&width=1000&height=180&lines=Hi,+I'm+Rica+Kesuma;Passionate+about+Data+Analysis+and+Insights;Skilled+in+Python,+SQL,+Excel,+and+Machine+Learning;Proficient+in+Data+Visualization+with+Tableau,+PowerBI,+and+Python)](https://git.io/typing-svg)
+
 
 # 📄 Portfolio(s):
 
