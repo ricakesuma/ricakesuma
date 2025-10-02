@@ -1,5 +1,3 @@
-# ✨Hello, I'm Rica Kesuma!📊
-
 <img src="https://github.com/ricakesuma/Introduction/raw/main/Rica%20Kesuma_Github.gif" alt="Demo GIF" style="max-width:900px; width:100%;"/>
 
 </body>
