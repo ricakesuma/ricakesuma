@@ -1,7 +1,7 @@
 # ✨Hello, I'm Rica Kesuma. Welcome to my Github World!📊
 
-<img src="https://github.com/ricakesuma/Introduction/raw/main/Rica%20Kesuma_Github.gif" alt="Demo GIF" width="500"/>
-<img class="center-img" src="https://github.com/ricakesuma/ricakesuma/blob/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width= "300">
+<img src="https://github.com/ricakesuma/Introduction/raw/main/Rica%20Kesuma_Github.gif" alt="Demo GIF" style="max-width:900px; width:100%;"/>
+<img class="center-img" src="https://github.com/ricakesuma/ricakesuma/blob/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width= "200">
 
 </body>
 </html>
