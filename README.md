@@ -42,7 +42,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoWidth=30&fontSize=large)](https://www.linkedin.com/in/ricakesuma/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red&logoWidth=30&logoColor=white&fontSize=large)](mailto:rica.kesuma6@gmail.com)
 
-# THANK YOU, XOXO!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=THANK+YOU,+XOXO!+%F0%9F%92%8B" alt="Typing SVG"/>
+</p>
+
 <p align="center">
   <img src="https://github.com/ricakesuma/ricakesuma/raw/main/fef3de3d-d644-4f68-bc39-445ed1fc9ec4.png" alt="Image" width="500"/>
 </p>
